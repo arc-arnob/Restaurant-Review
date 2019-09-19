@@ -1,0 +1,6 @@
+Model Output:
+Accuracy: 73.00%
+Recall: 56.70%
+Precision: 82.09% 
+F-measure: 67.07%
+Low recall, high precision: This shows that we miss a lot of positive examples (high FN) but those we predict as positive are indeed positive (low FP)
